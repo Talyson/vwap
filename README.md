@@ -1,5 +1,5 @@
 # VWAP Intraday
+Função para calcular a VWAP intraday atual.
 
-Função para calcular a VWAP intrday atual
-
+## Protótipo da função
 double VwapDiaAtual (const string ticker = NULL);
